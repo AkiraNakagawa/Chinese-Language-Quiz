@@ -13,6 +13,13 @@
 		296CB9491A802B58003C70D2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 296CB9481A802B58003C70D2 /* Images.xcassets */; };
 		296CB94C1A802B58003C70D2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 296CB94A1A802B58003C70D2 /* LaunchScreen.xib */; };
 		296CB9581A802B58003C70D2 /* Chinese_Listening_PracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296CB9571A802B58003C70D2 /* Chinese_Listening_PracticeTests.swift */; };
+		296CB9621A805879003C70D2 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296CB9611A805879003C70D2 /* ViewController2.swift */; };
+		296CB9641A81DA88003C70D2 /* ViewController3Reverse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296CB9631A81DA87003C70D2 /* ViewController3Reverse.swift */; };
+		296CB9661A82A295003C70D2 /* ViewControllerDictation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296CB9651A82A295003C70D2 /* ViewControllerDictation.swift */; };
+		29B6CB7C1A89C2D3003DDFEA /* er.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 29B6CB781A89C2D3003DDFEA /* er.mp3 */; };
+		29B6CB7D1A89C2D3003DDFEA /* jintian.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 29B6CB791A89C2D3003DDFEA /* jintian.m4a */; };
+		29B6CB7E1A89C2D3003DDFEA /* san.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 29B6CB7A1A89C2D3003DDFEA /* san.mp3 */; };
+		29B6CB7F1A89C2D3003DDFEA /* si.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 29B6CB7B1A89C2D3003DDFEA /* si.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +43,13 @@
 		296CB9511A802B58003C70D2 /* Chinese Listening PracticeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Chinese Listening PracticeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		296CB9561A802B58003C70D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		296CB9571A802B58003C70D2 /* Chinese_Listening_PracticeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chinese_Listening_PracticeTests.swift; sourceTree = "<group>"; };
+		296CB9611A805879003C70D2 /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		296CB9631A81DA87003C70D2 /* ViewController3Reverse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController3Reverse.swift; sourceTree = "<group>"; };
+		296CB9651A82A295003C70D2 /* ViewControllerDictation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerDictation.swift; sourceTree = "<group>"; };
+		29B6CB781A89C2D3003DDFEA /* er.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = er.mp3; sourceTree = "<group>"; };
+		29B6CB791A89C2D3003DDFEA /* jintian.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = jintian.m4a; sourceTree = "<group>"; };
+		29B6CB7A1A89C2D3003DDFEA /* san.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = san.mp3; sourceTree = "<group>"; };
+		29B6CB7B1A89C2D3003DDFEA /* si.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = si.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,8 +93,12 @@
 			children = (
 				296CB9411A802B58003C70D2 /* AppDelegate.swift */,
 				296CB9431A802B58003C70D2 /* ViewController.swift */,
+				296CB9651A82A295003C70D2 /* ViewControllerDictation.swift */,
+				296CB9631A81DA87003C70D2 /* ViewController3Reverse.swift */,
+				296CB9611A805879003C70D2 /* ViewController2.swift */,
 				296CB9451A802B58003C70D2 /* Main.storyboard */,
 				296CB9481A802B58003C70D2 /* Images.xcassets */,
+				29B6CB771A89C2D3003DDFEA /* Sound Source */,
 				296CB94A1A802B58003C70D2 /* LaunchScreen.xib */,
 				296CB93F1A802B57003C70D2 /* Supporting Files */,
 			);
@@ -110,6 +128,17 @@
 				296CB9561A802B58003C70D2 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		29B6CB771A89C2D3003DDFEA /* Sound Source */ = {
+			isa = PBXGroup;
+			children = (
+				29B6CB781A89C2D3003DDFEA /* er.mp3 */,
+				29B6CB791A89C2D3003DDFEA /* jintian.m4a */,
+				29B6CB7A1A89C2D3003DDFEA /* san.mp3 */,
+				29B6CB7B1A89C2D3003DDFEA /* si.mp3 */,
+			);
+			path = "Sound Source";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,6 +224,10 @@
 				296CB9471A802B58003C70D2 /* Main.storyboard in Resources */,
 				296CB94C1A802B58003C70D2 /* LaunchScreen.xib in Resources */,
 				296CB9491A802B58003C70D2 /* Images.xcassets in Resources */,
+				29B6CB7E1A89C2D3003DDFEA /* san.mp3 in Resources */,
+				29B6CB7C1A89C2D3003DDFEA /* er.mp3 in Resources */,
+				29B6CB7D1A89C2D3003DDFEA /* jintian.m4a in Resources */,
+				29B6CB7F1A89C2D3003DDFEA /* si.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,7 +246,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				296CB9441A802B58003C70D2 /* ViewController.swift in Sources */,
+				296CB9641A81DA88003C70D2 /* ViewController3Reverse.swift in Sources */,
 				296CB9421A802B58003C70D2 /* AppDelegate.swift in Sources */,
+				296CB9661A82A295003C70D2 /* ViewControllerDictation.swift in Sources */,
+				296CB9621A805879003C70D2 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,6 +441,7 @@
 				296CB95D1A802B58003C70D2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		296CB95E1A802B58003C70D2 /* Build configuration list for PBXNativeTarget "Chinese Listening PracticeTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +450,7 @@
 				296CB9601A802B58003C70D2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

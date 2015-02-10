@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chinese Listening Practice/ViewController2.swift"
+            timestampString = "445236705.004325"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "choice4Action(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chinese Listening Practice/ViewController2.swift"
+            timestampString = "445236705.004325"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "179"
+            endingLineNumber = "179"
+            landmarkName = "choice4Action(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chinese Listening Practice/ViewController2.swift"
+            timestampString = "444804506.635584"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "ViewController2"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.mainbundle.getter : ObjectiveC.NSBundle"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444804777.069177"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.mainbundle.setter : ObjectiveC.NSBundle"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444804777.069542"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.mainbundle.materializeForSet : ObjectiveC.NSBundle"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444804777.06984"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.init (Chinese_Listening_Practice.ViewController2.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Chinese_Listening_Practice.ViewController2"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444804777.070134"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "583">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.init (Chinese_Listening_Practice.ViewController2.Type)() -&gt; Chinese_Listening_Practice.ViewController2"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444804777.070415"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "538">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.init (Chinese_Listening_Practice.ViewController2.Type)(coder : ObjectiveC.NSCoder) -&gt; Chinese_Listening_Practice.ViewController2"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444804777.070711"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "549">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chinese Listening Practice/ViewController2.swift"
+            timestampString = "444804775.971316"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "ViewController2"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.case1Sound.getter : ObjectiveC.AVAudioPlayer"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444804776.086445"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.case1Sound.setter : ObjectiveC.AVAudioPlayer"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444804776.832337"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.case1Sound.materializeForSet : ObjectiveC.AVAudioPlayer"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444804776.832567"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.init (Chinese_Listening_Practice.ViewController2.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Chinese_Listening_Practice.ViewController2"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444804776.832715"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "3413">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.init (Chinese_Listening_Practice.ViewController2.Type)() -&gt; Chinese_Listening_Practice.ViewController2"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444804776.832859"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "3329">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.init (Chinese_Listening_Practice.ViewController2.Type)(coder : ObjectiveC.NSCoder) -&gt; Chinese_Listening_Practice.ViewController2"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444804776.833035"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "3343">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chinese Listening Practice/ViewController2.swift"
+            timestampString = "444805105.930847"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "ViewController2"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.Y.getter : Swift.Optional&lt;ObjectiveC.NSURL&gt;"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444805105.999406"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.Y.setter : Swift.Optional&lt;ObjectiveC.NSURL&gt;"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444805105.999925"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.Y.materializeForSet : Swift.Optional&lt;ObjectiveC.NSURL&gt;"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444805106.000233"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.init (Chinese_Listening_Practice.ViewController2.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Chinese_Listening_Practice.ViewController2"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444805106.000526"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.init (Chinese_Listening_Practice.ViewController2.Type)() -&gt; Chinese_Listening_Practice.ViewController2"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444805106.000812"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chinese_Listening_Practice.ViewController2.init (Chinese_Listening_Practice.ViewController2.Type)(coder : ObjectiveC.NSCoder) -&gt; Chinese_Listening_Practice.ViewController2"
+                  moduleName = "Chinese Listening Practice"
+                  urlString = "file:///Users/nakagawaakira/Desktop/Chinese%20Listening%20Practice/Chinese%20Listening%20Practice/ViewController2.swift"
+                  timestampString = "444805106.001098"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "646">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chinese Listening Practice/ViewController2.swift"
+            timestampString = "445235936.652574"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "ViewController2"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
